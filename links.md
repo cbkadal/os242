@@ -19,5 +19,5 @@ Some easy-to-use commands you can use to inspect hardware.
 These commands will help you list PCI devices, view information about your CPU, and more.
 <br>
 <br>
-#### REV: Wed 04 Sep 2024 21:00
+#### REV: Sat 14 Sep 2024 11:00
 <hr>
